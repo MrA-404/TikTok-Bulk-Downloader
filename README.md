@@ -4,7 +4,7 @@ A fast and easy **TikTok bulk downloader** to grab, download, rename, and organi
 
 ---
 
-![TikTok Bulk Downloader Interface](https://media.discordapp.net/attachments/1409957890034503742/1416574552393384046/image.png?)
+![TikTok Bulk Downloader Interface](https://raw.githubusercontent.com/MrA-404/TikTok-Bulk-Downloader/refs/heads/main/interface.png)
 
 
 ## ✨ Features
